@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naadydev
-- 👀 I’m interested in Security, StartUp, IOT,SAS, Cloud
+- 👀 I’m interested in Engineering Management, Security, StartUp, IOT, SAS, Cloud
 - 🌱 ...
 - 💞️ ...
 - 📫 How to reach me ...>> naadydev@gmail.com 
