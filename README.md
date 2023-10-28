@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naadydev
-- Engineering Management, SaaS, Security, StartUp, IOT, SAS, Cloud
+- Engineering Management, SaaS, Security, StartUp, IOT, Cloud
 
 <!---
 naadydev/naadydev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
