@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @naadydev
-- 👀 I’m interested in Engineering Management, Security, StartUp, IOT, SAS, Cloud
-- 🌱 ...
-- 💞️ ...
-- 📫 How to reach me ...>> naadydev@gmail.com 
+- Engineering Management, SaaS, Security, StartUp, IOT, SAS, Cloud
 
 <!---
 naadydev/naadydev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
